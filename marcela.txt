@@ -1,3 +1,7 @@
 Hello
 
+<<<<<<< HEAD
 i like blue
+=======
+i like swimming
+>>>>>>> practice
